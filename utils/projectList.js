@@ -2,15 +2,13 @@ const projectList = [
   {
     id: 1,
     image: "/projects/business-ims.png",
-    tack: ["React", "Next.js", "NextAuth", "Node.js", "Express.js", "MongoDB"],
-    title: "inventory management system",
+    tack: ["Laravel", "JavaScript", "jQuery", "React", "Mysql", "Bootstrap"],
+    title: "Learning management system",
     subTitle: "",
     description:
       "full-featured inventory management system designed to streamline stock, sales, purchases, and subscriptions with efficiency and scalability.",
     links: {
-      frontend: "https://github.com/ Mahamudul/business-ims",
-      live: "https://business-ims.vercel.app",
-      backend: "https://github.com/MahmudSoftware/business-ims-server",
+      live: "https://ensiner.com",
     },
   },
   {
@@ -22,9 +20,7 @@ const projectList = [
     description:
       "modern blogging platform built with Next.js, offering role-based authentication, search, comments, dark mode, and open-source collaboration.",
     links: {
-      frontend: "https://github.com/MahmudSoftware/daily-blogs",
-      live: "https://daily-blogs.vercel.app",
-      backend: "https://github.com/MahmudSoftware/daily-blogs-server",
+      live: "https://daily-blogs.vercel.app"
     },
   },
   {
@@ -36,9 +32,7 @@ const projectList = [
     description:
       "scalable online shopping platform featuring product management, secure checkout, and a seamless user experience for both customers and admins.",
     links: {
-      frontend: "https://github.com/MahmudSoftware/megamart-ecommerce",
-      live: "https://megamart-ecommerce.netlify.app",
-      backend: "https://github.com/MahmudSoftware/megamart-ecommerce-server",
+      live: "https://megamart-ecommerce.netlify.app"
     },
   },
   {
@@ -48,11 +42,9 @@ const projectList = [
     title: "social media website",
     subTitle: "",
     description:
-      "real-time, interactive platform built with MERN stack, featuring posts, chat, followers, and an engaging feed for seamless user connections.",
+      "real-time, interactive platform built with Laravel & JavaScript Developer stack, featuring posts, chat, followers, and an engaging feed for seamless user connections.",
     links: {
-      frontend: "https://github.com/MahmudSoftware/social-media",
-      live: "https://github.com/MahmudSoftware",
-      backend: "https://github.com/MahmudSoftware/social-media-server",
+      live: "https://github.com/MahmudSoftware"
     },
   },
   {
@@ -64,9 +56,7 @@ const projectList = [
     description:
       "real-time messaging platform with text, file sharing, and live updates powered by Socket.IO for smooth and instant communication.",
     links: {
-      frontend: "https://github.com/MahmudSoftware/chat-app",
-      live: "https://sk-chat-app.vercel.app",
-      backend: "https://github.com/MahmudSoftware/chat-app-server",
+      live: "https://syed-mahamudul-hassan.vercel.app"
     },
   },
   {
@@ -78,9 +68,7 @@ const projectList = [
     description:
       "delivery platform designed to track meals, manage orders, and ensure healthy, hassle-free dining every day.",
     links: {
-      frontend: "https://github.com/MahmudSoftware/daily-food-clint",
-      live: "https://daily-food-1dafd.web.app",
-      backend: "https://github.com/MahmudSoftware/daily-food-server",
+      live: "https://syed-mahamudul-hassan.vercel.app"
     },
   },
 ];

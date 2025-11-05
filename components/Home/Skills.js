@@ -19,7 +19,7 @@ const Skills = () => {
           transition={{ duration: 1, delay: 0.5 }}
           className="font-ovo text-xl text-gray-600"
         >
-          technical level
+          Technical level
         </motion.p>
         <motion.h2
           initial={{ y: -20, opacity: 0 }}
@@ -35,7 +35,7 @@ const Skills = () => {
           transition={{ duration: 1.2, delay: 0.5 }}
           className="font-ovo mx-auto max-w-xl text-[16px] text-gray-700"
         >
-          Here are the technical skills and tools I’ve mastered to build modern,
+          Here are the Technical skills and tools I’ve mastered to build modern,
           scalable, and user-friendly web applications.
         </motion.p>
       </div>
@@ -63,8 +63,8 @@ const Skills = () => {
           {/* skils items */}
           <div className="space-y-4">
             {/* skill 1 */}
-            <Progress title="html 5" percent={90} />
-            <Progress title="css3" percent={80} />
+            <Progress title="PHP" percent={95} />
+            <Progress title="Laravel" percent={98} />
             <Progress title="bootstrap & tailwindcss" percent={90} />
             <Progress title="javascript" percent={80} />
             <Progress title="react js & next js" percent={90} />
@@ -97,7 +97,7 @@ const Skills = () => {
             >
               I’m a passionate full-stack web developer who builds modern,
               scalable, and user-friendly applications. With expertise in the
-              MERN stack, I ensure both clean design and powerful functionality.
+              Laravel & JavaScript Developer , I ensure both clean design and powerful functionality.
               I use NextAuth for secure authentication, caching for high
               performance, and message queues like BullMQ and RabbitMQ for
               efficient background processing. My goal is to deliver reliable,

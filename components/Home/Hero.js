@@ -51,8 +51,8 @@ const Hero = () => {
             className="mt-4 w-full max-w-2xl text-gray-700"
           >
             I love turning ideas into beautiful, high-performance websites and
-            web applications. With 3 years of experience as a Full Stack (MERN)
-            developer from Bangladesh, I focus on building fast, scalable, and
+            web applications. With 4 years of experience as a Laravel & JavaScript Developer
+            from Bangladesh, I focus on building fast, scalable, and
             engaging digital experiences that truly connect with people.
           </motion.p>
         </div>

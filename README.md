@@ -27,7 +27,7 @@
 - **Responsive Design** – Works beautifully on desktop, tablet, and mobile.
 - **Contact Form** – Visitors can send messages directly to Gmail.
   **Projects Showcase** – Highlight your best work with live demos and code links.
-- **Skills Section** – Display technical skills and experience.
+- **Skills Section** – Display Technical Skills and experience.
 - **Smooth Animations** – Engaging transitions using Framer Motion.
 - **SEO Optimized** – Fast loading and search engine friendly.
 

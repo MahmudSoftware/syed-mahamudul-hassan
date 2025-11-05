@@ -175,7 +175,7 @@ const About = () => {
                 Education
               </h3>
               <p className="mt-1 text-[15px] font-normal text-gray-500">
-                built my skills in software development, focusing on the MERN
+                built my skills in software development, focusing on the Laravel & JavaScript Developer
                 stack and modern web technologies.
               </p>
             </motion.div>

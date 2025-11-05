@@ -24,7 +24,7 @@ export default function Home() {
       "https://x.com/syedmahamudulh",
     ],
     description:
-      "Syed Mahamudul Hassan is a Bangladeshi Full Stack Web Developer skilled in Next.js, React, Node.js, and MongoDB, passionate about creating production-ready web applications.",
+      "Syed Mahamudul Hassan is a Bangladeshi Full Stack Web Developer skilled in PHP, Laravel, JavaScript, React, Next.js, Node.js, Git, CI/CD, and MongoDB. He is a passionate developer, passionate about creating production-ready web applications.",
   };
   return (
     <>
