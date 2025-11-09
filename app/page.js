@@ -5,6 +5,7 @@ import Hero from "@/components/Home/Hero";
 import Projects from "@/components/Home/Projects";
 import Services from "@/components/Home/Services";
 import Skills from "@/components/Home/Skills";
+import WorkExperience from "@/components/Home/WorkExperience";
 
 export default function Home() {
   const schemaData = {
@@ -36,6 +37,7 @@ export default function Home() {
       <div className="space-y-16 sm:space-y-24">
         <Hero />
         <About />
+        <WorkExperience />
         <Services />
         <Skills />
         <Projects />
