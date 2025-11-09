@@ -32,7 +32,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="font-ovo text-xl text-gray-600 capitalize sm:text-2xl"
           >
-            Hi👋I’m Syed Mahamudul Hassan
+             Syed Mahamudul Hassan
           </motion.h1>
         </div>
         <div className="mt-3 flex flex-col items-center justify-center text-center">
@@ -42,7 +42,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.5 }}
             className="font-ovo w-full max-w-4xl text-3xl text-gray-900 md:text-5xl lg:text-7xl"
           >
-            Full stack web developer from Bangladesh.
+            Full stack web developer.
           </motion.h1>
           <motion.p
             initial={{ opacity: 0 }}
@@ -51,8 +51,7 @@ const Hero = () => {
             className="mt-4 w-full max-w-2xl text-gray-700"
           >
             I love turning ideas into beautiful, high-performance websites and
-            web applications. With 4 years of experience as a Laravel & JavaScript Developer
-            from Bangladesh, I focus on building fast, scalable, and
+            web applications. With 4+ years of experience as a Laravel & JavaScript Developer , I focus on building fast, scalable, and
             engaging digital experiences that truly connect with people.
           </motion.p>
         </div>

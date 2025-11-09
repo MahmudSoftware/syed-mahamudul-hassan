@@ -21,7 +21,7 @@ const ovo = Ovo({
 export const metadata = {
   title: "Syed Mahamudul Hassan | Full Stack Web Developer",
   description:
-    "I'm Syed Mahamudul Hassan, a Bangladeshi Full Stack Web Developer (Laravel & JavaScript Developer) skilled in Next.js, React, Node.js, and MongoDB. Passionate about building production-grade web applications.",
+    "Syed Mahamudul Hassan, a Bangladeshi Full Stack Web Developer (Laravel & JavaScript Developer) skilled in Next.js, React, Node.js, and MongoDB. Passionate about building production-grade web applications.",
   keywords: [
     "Syed Mahamudul Hassan",
     "Full Stack Developer",
