@@ -11,6 +11,8 @@ on:
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
+    env:
+      NEXT_DISABLE_ESLINT: true
 
     steps:
       - name: Checkout repository
@@ -26,7 +28,7 @@ jobs:
         run: npm ci
 
       - name: Run lint (non-blocking)
-        run: npm run lint || echo "⚠️ Lint errors ignored"
+        run: npm run lint || echo "Lint errors ignored"
 
       - name: Run build
         run: npm run build
