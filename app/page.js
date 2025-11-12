@@ -38,10 +38,10 @@ export default function Home() {
         <Hero />
         <About />
         <WorkExperience />
-        <Services />
-        <Skills />
         <Projects />
         <Contact />
+        <Services />
+        <Skills />
         <ScrollToTop />
       </div>
     </>

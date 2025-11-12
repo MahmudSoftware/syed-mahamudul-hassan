@@ -139,11 +139,10 @@ const About = () => {
                 </svg>
               </p>
               <h3 className="mt-3 text-[20px] font-semibold text-gray-700">
-                Projects
+                Soft Skills
               </h3>
               <p className="mt-1 text-[15px] font-normal text-gray-500">
-                Built more than 10 projects including E-commerce, Inventory
-                management system, Social Media app etc.
+              Communication, Teamwork, Problem-Solving, Time Management, Adaptability, Leadership, Creativity, Critical Thinking, and Emotional Intelligence.
               </p>
             </motion.div>
 
